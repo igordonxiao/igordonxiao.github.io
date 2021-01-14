@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>后端 on Gordon的IT技术文档</title>
+    <link>/categories/%E5%90%8E%E7%AB%AF/</link>
+    <description>Recent content in 后端 on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E5%90%8E%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Germ-Code generator for Spring Boot Web Project</title>
+      <link>/post/germ/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/germ/</guid>
+      <description>This project is used to generate source code with spring boot from database. Github: https://github.com/igordonxiao/germ Feature Generated standard MAVEN project structure Generated file pom.xml Generated file .gitignore Generated spring boot configuration file application.yml Generated Model, Repository, Service, Controller layers Generated basic CRUD operations Swagger documentation Support multi development env Language Java (Currently Supported) Kotlin Python Go Compilation &amp;amp; Running Open file App.kt, update variable DESTINATION_PARENT_DIR to your system path, you</description>
+    </item>
+    
+    <item>
+      <title>PG-DAO</title>
+      <link>/post/pg-dao/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pg-dao/</guid>
+      <description>A simple Data Access tool which wrapped apache commons-dbutils for PostgreSQL. Github: https://github.com/igordonxiao/pg-dao 特性 支持实体ID自增长 逻辑删除 自动维护createdDate、updatedDate和delFlag字段 常用CRU</description>
+    </item>
+    
+    <item>
+      <title>Spring boot 2 Kotlin DSL WebFlux</title>
+      <link>/post/springboot2kotlin/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/springboot2kotlin/</guid>
+      <description>Spring Boot 2 + Kotlin DSL + Flux Web SpringbootdemoApplication.kt 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 package io.igordonxiao.springbootdemo import org.springframework.boot.Banner.Mode.OFF import org.springframework.boot.autoconfigure.SpringBootApplication import</description>
+    </item>
+    
+    <item>
+      <title>使用SpiderKeeper管理爬虫定时任务</title>
+      <link>/post/spiderkeeper/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/spiderkeeper/</guid>
+      <description>我们经常会使用Scrapy来爬取数据。但爬取行为一般都是使用定时任务来控制。Scrapyd就是一款非常方便的`Scrapy｀任务调度管理工具</description>
+    </item>
+    
+    <item>
+      <title>解决gjson无法解析数组字符串的问题</title>
+      <link>/post/gjsonhack/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gjsonhack/</guid>
+      <description>gjson是一款Go语言的JSON解析库。 gjson解析JSON确实非常方便，当parse一个JSON对象后返回的是一个Result对象，基</description>
+    </item>
+    
+    <item>
+      <title>使用Vagrant建立Django独立开发环境</title>
+      <link>/post/vagrantpythondjango/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/vagrantpythondjango/</guid>
+      <description>Vagrant及Ubuntu环境搭建 step 1. 安装Vagrant 1.9.5 step 2. 本地创建Django项目, 使用PyCharm 2017.1.4 创建CMS_Service并进</description>
+    </item>
+    
+    <item>
+      <title>使用Spring MVC ResponseEntity进行文件下载时需注意HttpStatus的设置</title>
+      <link>/post/springmvcdownloadwithie/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/springmvcdownloadwithie/</guid>
+      <description>1 return new ResponseEntity&amp;lt;&amp;gt;(FileUtils.readFileToByteArray(new File(attach.getPath())), headers, HttpStatus.CREATED); 使用HttpStatus.CREATED在Chrome中能正常下载, 但在IE, 搜狗浏览器中却无法下载, 并且也无法使用迅雷来下载</description>
+    </item>
+    
+    <item>
+      <title>用Jetty在IDEA中开发基于Jfinal的项目</title>
+      <link>/post/ideawithjfinal/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ideawithjfinal/</guid>
+      <description>背景:之前用Tomcat在IDEA中成功搭建了项目环境, 配合Jrebel神器可以实现大部分代码的热加载, 但添加一个新的路由后却无法被热加载.</description>
+    </item>
+    
+    <item>
+      <title>iweb-java Web 后台管理系统模板发布</title>
+      <link>/post/iweb-java/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/iweb-java/</guid>
+      <description>A backend web management system template with Java 8, Spring4, Hibernate5 and more&amp;hellip; It&amp;rsquo;s just a seed yet, you have to raise it follow your own business demands. PROJECT RESOURCE Github: https://github.com/igordonxiao/iweb-java MAIN FRAMEWORKS 1 2 3 4 5 1. Spring4+SpringMVC+Hibernate5 2. Logback 3. Druid 4. Jetbrick-template 5. EhCache FRONT END 1 2 3 1. jQuery &amp;amp; Bootstrap v3.3.4 2. Fontawesome icons 3. Many resource code are from site [h+</description>
+    </item>
+    
+    <item>
+      <title>Java中的Proxy</title>
+      <link>/post/javaproxy/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/javaproxy/</guid>
+      <description>Java中的静态代理属于硬编码方式，在这里就不记录了。这里主要写下jdk动态代理和使用cglib实现动态代理的方法。 jdk动态代理 jdk实现</description>
+    </item>
+    
+  </channel>
+</rss>

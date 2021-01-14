@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>微服务 on Gordon的IT技术文档</title>
+    <link>/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</link>
+    <description>Recent content in 微服务 on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nacos集群部署</title>
+      <link>/post/nacos-cluster-deploy/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nacos-cluster-deploy/</guid>
+      <description>什么是Nacos Nacos 致力于帮助您发现、配置和管理微服务。Nacos 提供了一组简单易用的特性集，帮助您快速实现动态服务发现、服务配置、服务元数据</description>
+    </item>
+    
+    <item>
+      <title>Spring Cloud Gateway响应式网关</title>
+      <link>/post/spring-cloud-gateway/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/spring-cloud-gateway/</guid>
+      <description>前言 随着Zuul 1.0的不再维护，Spring官方开发了基于WebFlux编程模型的Spring Cloud Gateway来作为微服务的网关。 WebF</description>
+    </item>
+    
+    <item>
+      <title>源码安装携程Apollo分布式配置中心</title>
+      <link>/post/ctrip-apollo/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ctrip-apollo/</guid>
+      <description>Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具</description>
+    </item>
+    
+    <item>
+      <title>Rancher部署多台主机</title>
+      <link>/post/rancher-muti-hosts/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rancher-muti-hosts/</guid>
+      <description>在微服务中，我们需要多台主机，有的提供网关服务，有的提供数据库服务等。在众多的业务服务中，每台主机都会运行多个Docker容器服务。如何对这</description>
+    </item>
+    
+    <item>
+      <title>Docker常用命令</title>
+      <link>/post/dokcer-commands/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dokcer-commands/</guid>
+      <description>删除所有tag为none的镜像 1 2 3 docker images|grep none|awk &amp;#39;{print $3 }&amp;#39;|xargs docker rmi docker images -a |grep none|awk &amp;#39;{print $3 }&amp;#39;|xargs docker rmi 删除所有镜像 1 docker images -a |awk &amp;#39;{print $3 }&amp;#39;|xargs docker rmi 删除所有的运行的Docker镜像 1 2</description>
+    </item>
+    
+    <item>
+      <title>Konga API配置</title>
+      <link>/post/konga/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/konga/</guid>
+      <description>在现今微服务的大潮下，如何对API进行统一管理势在必行。Konga是一款针对API配置管理工具Kong的GUI工具。 Name API名称 Hosts 主机名称，</description>
+    </item>
+    
+    <item>
+      <title>阿里云ubuntu 16.04.2 LTS安装Rancher稳定版本步骤</title>
+      <link>/post/deployrancheronubuntu/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/deployrancheronubuntu/</guid>
+      <description>step 1 ssh到Ubuntu服务器安装Docker 17.03.1 参考文章http://www.cnrancher.com/install-docker/ 执行</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小玩意 on Gordon的IT技术文档</title>
+    <link>/categories/%E5%B0%8F%E7%8E%A9%E6%84%8F/</link>
+    <description>Recent content in 小玩意 on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E5%B0%8F%E7%8E%A9%E6%84%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>小程序扇贝单词大师辅助程序</title>
+      <link>/post/wordmaster/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/wordmaster/</guid>
+      <description>该程序是在知乎答题王（小程序头脑王者）辅助工具的基础上添加了单词大师辅助功能，因此也兼容知乎答题王（小程序头脑王者），首先感谢知乎答题王（小</description>
+    </item>
+    
+    <item>
+      <title>GG-Music 全民K歌播放器</title>
+      <link>/post/ggmusic/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ggmusic/</guid>
+      <description>全民K歌播放器 Build with Vue.js Github: https://github.com/igordonxiao/GG-music-FE 编译 1 2 3 4 5 6 7 8 # install dependencies npm install # serve with hot reload at localhost:8000 npm run dev # build for production with minification npm run build 功能 获取全民K歌用户信息 获取用户歌曲列表 播放歌曲</description>
+    </item>
+    
+    <item>
+      <title>使用nginx-rtmp-module搭建流媒体服务器</title>
+      <link>/post/rtmpwithnginx/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rtmpwithnginx/</guid>
+      <description>折腾了大半天, 终于配置成功, 记录如下。 Mac下也够折腾的, 最后直接使用Ubuntu 12.04。 1. 在Nginx官方下载nginx(我用的是1.</description>
+    </item>
+    
+    <item>
+      <title>iNote单页博客编译安装方式</title>
+      <link>/post/inote/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/inote/</guid>
+      <description>iNote是一款开源，免费，简洁的单页博客 iNote是在beego(golang语言)&amp;amp;bootstrap等开源项目基础之上开发的 Github:</description>
+    </item>
+    
+  </channel>
+</rss>

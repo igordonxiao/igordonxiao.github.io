@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS3 on Gordon的IT技术文档</title>
+    <link>/tags/css3/</link>
+    <description>Recent content in CSS3 on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 25 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/css3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>给图片加上一个深色透明遮罩效果</title>
+      <link>/post/backendimgwithtransparent/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/backendimgwithtransparent/</guid>
+      <description>很多App的图文列表里会将标题置于图片之上,而图片本身则是被处理加上一层深色半透明背景,当然图片的效果可以完全直接通过PS软件作出来,但对于</description>
+    </item>
+    
+    <item>
+      <title>CSS3实现Tab切换带下划线动画的效果</title>
+      <link>/post/css3tablineanimate/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/css3tablineanimate/</guid>
+      <description>今天带来一个Tab切换带下划线动画的效果,如下图: 该动画还有一个超过100%宽度再反弹回100%的效果。 这个动画主要是使用到了CSS3的@k</description>
+    </item>
+    
+  </channel>
+</rss>

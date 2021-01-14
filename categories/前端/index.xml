@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>前端 on Gordon的IT技术文档</title>
+    <link>/categories/%E5%89%8D%E7%AB%AF/</link>
+    <description>Recent content in 前端 on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 25 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>给图片加上一个深色透明遮罩效果</title>
+      <link>/post/backendimgwithtransparent/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/backendimgwithtransparent/</guid>
+      <description>很多App的图文列表里会将标题置于图片之上,而图片本身则是被处理加上一层深色半透明背景,当然图片的效果可以完全直接通过PS软件作出来,但对于</description>
+    </item>
+    
+    <item>
+      <title>CSS3实现Tab切换带下划线动画的效果</title>
+      <link>/post/css3tablineanimate/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/css3tablineanimate/</guid>
+      <description>今天带来一个Tab切换带下划线动画的效果,如下图: 该动画还有一个超过100%宽度再反弹回100%的效果。 这个动画主要是使用到了CSS3的@k</description>
+    </item>
+    
+    <item>
+      <title>Angular directive for My97Date</title>
+      <link>/post/ngmydate97/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ngmydate97/</guid>
+      <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 angular.module(&amp;#39;NG&amp;#39;, []).directive(&amp;#39;ngdatepicker&amp;#39;, function () { return { restrict: &amp;#39;A&amp;#39;, require: &amp;#39;?ngModel&amp;#39;, link: function ($scope, $element, $attrs, ngModel) { $element.on(&amp;#39;focus&amp;#39;,function(){ WdatePicker({ readOnly: true, onpicked: function(){ $scope.$digest(); } }); }); $scope.$watch(function(){ return $element[0].value }, function(newDate){ eval(&amp;#39;$scope.&amp;#39;+$attrs.ngModel+&amp;#39; = newDate;&amp;#39;); }); } } }); 使用时需依赖jQu</description>
+    </item>
+    
+    <item>
+      <title>哦哈哟网页课程</title>
+      <link>/post/ohayoweb/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ohayoweb/</guid>
+      <description>创世纪篇 1 2 3 4 5 课程目标：学会使用HTML，CSS设计网页 课程人群：三次元生物 课程要求：学习者需熟悉计算机基本操作，熟练使用浏览器上网 课程</description>
+    </item>
+    
+  </channel>
+</rss>

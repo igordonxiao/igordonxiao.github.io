@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apollo on Gordon的IT技术文档</title>
+    <link>/tags/apollo/</link>
+    <description>Recent content in Apollo on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/apollo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>源码安装携程Apollo分布式配置中心</title>
+      <link>/post/ctrip-apollo/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ctrip-apollo/</guid>
+      <description>Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具</description>
+    </item>
+    
+  </channel>
+</rss>

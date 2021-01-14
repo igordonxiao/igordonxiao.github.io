@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring on Gordon的IT技术文档</title>
+    <link>/categories/spring/</link>
+    <description>Recent content in Spring on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/spring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>从pom文件看Spring Boot用到了哪些技术</title>
+      <link>/post/pom-spring/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pom-spring/</guid>
+      <description>Spring Boot越来越流行了，来通过它的pom文件看看都使用到了哪些技术。依赖技术的子依赖并没有在本文列出。 通过查看这些依赖的技术，以后在有单独需</description>
+    </item>
+    
+  </channel>
+</rss>

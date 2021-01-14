@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostgreSQL on Gordon的IT技术文档</title>
+    <link>/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PG-DAO</title>
+      <link>/post/pg-dao/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pg-dao/</guid>
+      <description>A simple Data Access tool which wrapped apache commons-dbutils for PostgreSQL. Github: https://github.com/igordonxiao/pg-dao 特性 支持实体ID自增长 逻辑删除 自动维护createdDate、updatedDate和delFlag字段 常用CRU</description>
+    </item>
+    
+  </channel>
+</rss>

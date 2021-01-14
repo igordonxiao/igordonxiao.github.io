@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Gordon的IT技术文档</title>
+    <link>/tags/golang/</link>
+    <description>Recent content in Golang on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>小程序扇贝单词大师辅助程序</title>
+      <link>/post/wordmaster/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/wordmaster/</guid>
+      <description>该程序是在知乎答题王（小程序头脑王者）辅助工具的基础上添加了单词大师辅助功能，因此也兼容知乎答题王（小程序头脑王者），首先感谢知乎答题王（小</description>
+    </item>
+    
+    <item>
+      <title>解决gjson无法解析数组字符串的问题</title>
+      <link>/post/gjsonhack/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gjsonhack/</guid>
+      <description>gjson是一款Go语言的JSON解析库。 gjson解析JSON确实非常方便，当parse一个JSON对象后返回的是一个Result对象，基</description>
+    </item>
+    
+    <item>
+      <title>iNote单页博客编译安装方式</title>
+      <link>/post/inote/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/inote/</guid>
+      <description>iNote是一款开源，免费，简洁的单页博客 iNote是在beego(golang语言)&amp;amp;bootstrap等开源项目基础之上开发的 Github:</description>
+    </item>
+    
+  </channel>
+</rss>

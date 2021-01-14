@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on Gordon的IT技术文档</title>
+    <link>/tags/html/</link>
+    <description>Recent content in HTML on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>哦哈哟网页课程</title>
+      <link>/post/ohayoweb/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ohayoweb/</guid>
+      <description>创世纪篇 1 2 3 4 5 课程目标：学会使用HTML，CSS设计网页 课程人群：三次元生物 课程要求：学习者需熟悉计算机基本操作，熟练使用浏览器上网 课程</description>
+    </item>
+    
+  </channel>
+</rss>

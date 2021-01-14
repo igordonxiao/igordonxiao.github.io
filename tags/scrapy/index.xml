@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scrapy on Gordon的IT技术文档</title>
+    <link>/tags/scrapy/</link>
+    <description>Recent content in scrapy on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scrapy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用SpiderKeeper管理爬虫定时任务</title>
+      <link>/post/spiderkeeper/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/spiderkeeper/</guid>
+      <description>我们经常会使用Scrapy来爬取数据。但爬取行为一般都是使用定时任务来控制。Scrapyd就是一款非常方便的`Scrapy｀任务调度管理工具</description>
+    </item>
+    
+  </channel>
+</rss>

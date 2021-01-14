@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin on Gordon的IT技术文档</title>
+    <link>/tags/kotlin/</link>
+    <description>Recent content in Kotlin on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GG-Music 全民K歌播放器</title>
+      <link>/post/ggmusic/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ggmusic/</guid>
+      <description>全民K歌播放器 Build with Vue.js Github: https://github.com/igordonxiao/GG-music-FE 编译 1 2 3 4 5 6 7 8 # install dependencies npm install # serve with hot reload at localhost:8000 npm run dev # build for production with minification npm run build 功能 获取全民K歌用户信息 获取用户歌曲列表 播放歌曲</description>
+    </item>
+    
+    <item>
+      <title>Germ-Code generator for Spring Boot Web Project</title>
+      <link>/post/germ/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/germ/</guid>
+      <description>This project is used to generate source code with spring boot from database. Github: https://github.com/igordonxiao/germ Feature Generated standard MAVEN project structure Generated file pom.xml Generated file .gitignore Generated spring boot configuration file application.yml Generated Model, Repository, Service, Controller layers Generated basic CRUD operations Swagger documentation Support multi development env Language Java (Currently Supported) Kotlin Python Go Compilation &amp;amp; Running Open file App.kt, update variable DESTINATION_PARENT_DIR to your system path, you</description>
+    </item>
+    
+    <item>
+      <title>Spring boot 2 Kotlin DSL WebFlux</title>
+      <link>/post/springboot2kotlin/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/springboot2kotlin/</guid>
+      <description>Spring Boot 2 + Kotlin DSL + Flux Web SpringbootdemoApplication.kt 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 package io.igordonxiao.springbootdemo import org.springframework.boot.Banner.Mode.OFF import org.springframework.boot.autoconfigure.SpringBootApplication import</description>
+    </item>
+    
+  </channel>
+</rss>

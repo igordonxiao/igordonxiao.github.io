@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gitlab on Gordon的IT技术文档</title>
+    <link>/tags/gitlab/</link>
+    <description>Recent content in Gitlab on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gitlab版本式分支管理规范</title>
+      <link>/post/gitbranchmgr/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gitbranchmgr/</guid>
+      <description>为解决分支管理混乱，提交代码随意等问题，本文介绍了使用gitlab Release branches flow结合业界优秀实践制定以下分支管理规范及协作流程。 Release branches with GitLab flow 使用</description>
+    </item>
+    
+  </channel>
+</rss>

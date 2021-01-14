@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue on Gordon的IT技术文档</title>
+    <link>/tags/vue/</link>
+    <description>Recent content in Vue on Gordon的IT技术文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>门岗守卫</title>
+      <link>/post/gateguard/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gateguard/</guid>
+      <description>门岗守卫 门岗守卫是一套在新冠疫情期间帮助小区门岗实现二维码扫描通行的程序，避免门岗人员与居民之间传递纸质通行证而造成的交叉感染。 项目地址 功能</description>
+    </item>
+    
+    <item>
+      <title>GG-Music 全民K歌播放器</title>
+      <link>/post/ggmusic/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ggmusic/</guid>
+      <description>全民K歌播放器 Build with Vue.js Github: https://github.com/igordonxiao/GG-music-FE 编译 1 2 3 4 5 6 7 8 # install dependencies npm install # serve with hot reload at localhost:8000 npm run dev # build for production with minification npm run build 功能 获取全民K歌用户信息 获取用户歌曲列表 播放歌曲</description>
+    </item>
+    
+  </channel>
+</rss>
